@@ -7,7 +7,7 @@ It uses *multiple machine learning models* to compare their performance and iden
 ---
 
 ## 📂 Dataset
-- *Source:* earthquakes.csv
+- *Source:* [earthquakes.csv](./earthquakes.csv)
 - The dataset contains features such as:
   - Latitude
   - Longitude
@@ -39,3 +39,4 @@ For each model, the following metrics were calculated:
 - *Prediction Graphs*
 
 ---
+
